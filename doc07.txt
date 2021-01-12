@@ -1,0 +1,178 @@
+1d0
+< commit d2c838dc74f12319f0638f602a9462111a718739 (HEAD -> travail)
+3c2
+< Date:   Tue Jan 12 16:36:12 2021 +0100
+---
+> Date:   Tue Jan 12 16:43:48 2021 +0100
+5c4
+<     Ajout de rien
+---
+>     Ajout de rien fichier vide
+7c6
+< commit 55f9346e9db0959d2b437b4d80317895ab0ceaf0
+---
+> commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+9c8
+< Date:   Tue Jan 12 16:33:05 2021 +0100
+---
+> Date:   Tue Jan 12 16:42:56 2021 +0100
+13c12
+< commit 8018eb0166c89f1e57aaa10fb623c04bbd201560
+---
+> commit 2407a506279f471f948ce42394c59bf7e82fac1c
+15c14
+< Date:   Tue Jan 12 16:26:48 2021 +0100
+---
+> Date:   Tue Jan 12 16:41:35 2021 +0100
+17c16
+<     Ajout de rien
+---
+>     Ajout de rien fichier vide
+19c18,19
+< commit b0971fb5e611da7e3724b35b8179f7eb2805c188
+---
+> :...skipping...
+> commit 5faf7437a59d7fcdc02115c02465afff282133da (HEAD -> main)
+21c21
+< Date:   Tue Jan 12 16:03:04 2021 +0100
+---
+> Date:   Tue Jan 12 16:43:48 2021 +0100
+23c23
+<     Ajout d une phrase sur mon anniversaire
+---
+>     Ajout de rien fichier vide
+25c25
+< commit 7513e1d5f8a756fbcdc4683672f5874631f0cebb
+---
+> commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+27c27
+< Date:   Tue Jan 12 15:58:25 2021 +0100
+---
+> Date:   Tue Jan 12 16:42:56 2021 +0100
+29c29,47
+<     Ajout de bonjour et de notre signature
+---
+>     Ajout de git status
+> 
+> commit 2407a506279f471f948ce42394c59bf7e82fac1c
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:41:35 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+> :...skipping...
+> commit 5faf7437a59d7fcdc02115c02465afff282133da (HEAD -> main)
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:43:48 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:42:56 2021 +0100
+31c49,147
+< commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD, main)
+---
+>     Ajout de git status
+> 
+> commit 2407a506279f471f948ce42394c59bf7e82fac1c
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:41:35 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+> Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+> :...skipping...
+> commit 5faf7437a59d7fcdc02115c02465afff282133da (HEAD -> main)
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:43:48 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:42:56 2021 +0100
+> 
+>     Ajout de git status
+> 
+> commit 2407a506279f471f948ce42394c59bf7e82fac1c
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:41:35 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+> Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+> Date:   Mon Jan 11 17:14:17 2021 +0100
+> :...skipping...
+> commit 5faf7437a59d7fcdc02115c02465afff282133da (HEAD -> main)
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:43:48 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:42:56 2021 +0100
+> 
+>     Ajout de git status
+> 
+> commit 2407a506279f471f948ce42394c59bf7e82fac1c
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:41:35 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+> Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+> Date:   Mon Jan 11 17:14:17 2021 +0100
+> 
+> :...skipping...
+> commit 5faf7437a59d7fcdc02115c02465afff282133da (HEAD -> main)
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:43:48 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:42:56 2021 +0100
+> 
+>     Ajout de git status
+> 
+> commit 2407a506279f471f948ce42394c59bf7e82fac1c
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:41:35 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+> Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+> Date:   Mon Jan 11 17:14:17 2021 +0100
+> 
+>     Add files via upload
+> :...skipping...
+> commit 5faf7437a59d7fcdc02115c02465afff282133da (HEAD -> main)
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:43:48 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:42:56 2021 +0100
+> 
+>     Ajout de git status
+> 
+> commit 2407a506279f471f948ce42394c59bf7e82fac1c
+> Author: Amir <amir@MacBook-Air-de-Amir.local>
+> Date:   Tue Jan 12 16:41:35 2021 +0100
+> 
+>     Ajout de rien fichier vide
+> 
+> commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+35a152,153
+> ~
+> 
