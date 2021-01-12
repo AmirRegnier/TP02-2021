@@ -1,0 +1,35 @@
+commit d2c838dc74f12319f0638f602a9462111a718739 (HEAD -> travail)
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:36:12 2021 +0100
+
+    Ajout de rien
+
+commit 55f9346e9db0959d2b437b4d80317895ab0ceaf0
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:33:05 2021 +0100
+
+    Ajout de git status
+
+commit 8018eb0166c89f1e57aaa10fb623c04bbd201560
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:26:48 2021 +0100
+
+    Ajout de rien
+
+commit b0971fb5e611da7e3724b35b8179f7eb2805c188
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:03:04 2021 +0100
+
+    Ajout d une phrase sur mon anniversaire
+
+commit 7513e1d5f8a756fbcdc4683672f5874631f0cebb
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 15:58:25 2021 +0100
+
+    Ajout de bonjour et de notre signature
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD, main)
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+    Add files via upload
