@@ -1,0 +1,187 @@
+
+commit c2574f7a0570023f789dc2525aca59b3796950fa (HEAD -> main)
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 17:12:49 2021 +0100
+
+    Ajout de rien
+
+commit 1f4521e98e0b6e4e60903b267d8be276784c1c18 (origin/main)
+Author: AmirRegnier <77016876+AmirRegnier@users.noreply.github.com>
+Date:   Tue Jan 12 17:11:30 2021 +0100
+
+    Create doc08.txt
+    
+    Création d'un nouveau fichier doc07
+
+commit 203b2bc040912b6eef87d801f774fa88c556f5d5
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:52:26 2021 +0100
+
+    Ajout de difference dans doc07
+
+commit d15c94cba64560d5fb8fe02895d2006e866acacd
+Merge: 8ee4ff2 c3b4974
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:50:19 2021 +0100
+
+    Merge branch 'travail' into main
+
+commit 8ee4ff2fd71f2f364e59fa4e865000bfa286eba5
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:45:31 2021 +0100
+
+    Ajout de git log dans doc06
+
+commit 5faf7437a59d7fcdc02115c02465afff282133da
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:43:48 2021 +0100
+
+    Ajout de rien fichier vide
+
+commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:42:56 2021 +0100
+
+    Ajout de git status
+
+:...skipping...
+commit c2574f7a0570023f789dc2525aca59b3796950fa (HEAD -> main)
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 17:12:49 2021 +0100
+
+    Ajout de rien
+
+commit 1f4521e98e0b6e4e60903b267d8be276784c1c18 (origin/main)
+Author: AmirRegnier <77016876+AmirRegnier@users.noreply.github.com>
+Date:   Tue Jan 12 17:11:30 2021 +0100
+
+    Create doc08.txt
+    
+    Création d'un nouveau fichier doc07
+
+commit 203b2bc040912b6eef87d801f774fa88c556f5d5
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:52:26 2021 +0100
+
+    Ajout de difference dans doc07
+
+commit d15c94cba64560d5fb8fe02895d2006e866acacd
+Merge: 8ee4ff2 c3b4974
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:50:19 2021 +0100
+
+    Merge branch 'travail' into main
+
+commit 8ee4ff2fd71f2f364e59fa4e865000bfa286eba5
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:45:31 2021 +0100
+
+    Ajout de git log dans doc06
+
+commit 5faf7437a59d7fcdc02115c02465afff282133da
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:43:48 2021 +0100
+
+    Ajout de rien fichier vide
+
+commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:42:56 2021 +0100
+
+    Ajout de git status
+
+commit 2407a506279f471f948ce42394c59bf7e82fac1c
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+:...skipping...
+commit c2574f7a0570023f789dc2525aca59b3796950fa (HEAD -> main)
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 17:12:49 2021 +0100
+
+    Ajout de rien
+
+commit 1f4521e98e0b6e4e60903b267d8be276784c1c18 (origin/main)
+Author: AmirRegnier <77016876+AmirRegnier@users.noreply.github.com>
+Date:   Tue Jan 12 17:11:30 2021 +0100
+
+    Create doc08.txt
+    
+    Création d'un nouveau fichier doc07
+
+commit 203b2bc040912b6eef87d801f774fa88c556f5d5
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:52:26 2021 +0100
+
+    Ajout de difference dans doc07
+
+commit d15c94cba64560d5fb8fe02895d2006e866acacd
+Merge: 8ee4ff2 c3b4974
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:50:19 2021 +0100
+
+    Merge branch 'travail' into main
+
+commit 8ee4ff2fd71f2f364e59fa4e865000bfa286eba5
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:45:31 2021 +0100
+
+    Ajout de git log dans doc06
+
+commit 5faf7437a59d7fcdc02115c02465afff282133da
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:43:48 2021 +0100
+
+    Ajout de rien fichier vide
+
+commit f7ebef9ab2b3836ca71f5415ef84b4661b5b5d0f
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:42:56 2021 +0100
+
+    Ajout de git status
+
+commit 2407a506279f471f948ce42394c59bf7e82fac1c
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:41:35 2021 +0100
+
+    Ajout de rien fichier vide
+
+commit c3b497435b74d4fcc42aaef2f1ec7e01d1a69f60 (travail)
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:38:45 2021 +0100
+
+    Ajout de git log
+
+commit d2c838dc74f12319f0638f602a9462111a718739
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:36:12 2021 +0100
+
+    Ajout de rien
+
+commit 55f9346e9db0959d2b437b4d80317895ab0ceaf0
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:33:05 2021 +0100
+
+    Ajout de git status
+
+commit 8018eb0166c89f1e57aaa10fb623c04bbd201560
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:26:48 2021 +0100
+
+    Ajout de rien
+
+commit b0971fb5e611da7e3724b35b8179f7eb2805c188
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 16:03:04 2021 +0100
+
+    Ajout d une phrase sur mon anniversaire
+
+commit 7513e1d5f8a756fbcdc4683672f5874631f0cebb
+Author: Amir <amir@MacBook-Air-de-Amir.local>
+Date:   Tue Jan 12 15:58:25 2021 +0100
+
+    Ajout de bonjour et de notre signature
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+    Add files via upload
